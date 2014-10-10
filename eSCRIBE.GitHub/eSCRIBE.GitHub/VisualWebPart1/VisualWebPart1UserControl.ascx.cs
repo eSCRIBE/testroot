@@ -15,6 +15,7 @@ namespace eSCRIBE.GitHub.VisualWebPart1
         protected void btnSaveTable1_Click(object sender, EventArgs e)
         {
             tbResult1.Text = "Saved name and company";
+			tbResult2.Text = "";
         }
 
         protected void btnSaveTable2_Click(object sender, EventArgs e)
