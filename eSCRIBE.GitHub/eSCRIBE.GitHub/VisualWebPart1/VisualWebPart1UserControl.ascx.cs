@@ -10,8 +10,8 @@ namespace eSCRIBE.GitHub.VisualWebPart1
         protected void Page_Load(object sender, EventArgs e)
         {
             // Nothing
-			tbResult1.Text = "";
-			tbResult2.Text = "";
+			tbResult1.Text = "None";
+			tbResult2.Text = "None";
         }
 
         protected void btnSaveTable1_Click(object sender, EventArgs e)
@@ -36,6 +36,7 @@ namespace eSCRIBE.GitHub.VisualWebPart1
             tbResult1.Text = "";
             tbResult2.Text = "";
             tbAge.Text = "";
+            tbCompany.Text = "";
         }
     }
 }
