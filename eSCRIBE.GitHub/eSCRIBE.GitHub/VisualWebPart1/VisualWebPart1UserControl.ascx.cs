@@ -21,6 +21,7 @@ namespace eSCRIBE.GitHub.VisualWebPart1
         protected void btnSaveTable2_Click(object sender, EventArgs e)
         {
             tbResult2.Text = "Saved age and gender";
+            tbResult1.Text = "";
         }
     }
 }
