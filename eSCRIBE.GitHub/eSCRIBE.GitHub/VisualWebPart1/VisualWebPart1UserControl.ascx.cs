@@ -16,7 +16,7 @@ namespace eSCRIBE.GitHub.VisualWebPart1
         {
             tbResult1.Text = "Saved name and company";
 			tbResult2.Text = "";
-			tbAge.Text = "0";
+			tbAge.Text = "1";
 			tbGender.Text = "Male";
         }
 
