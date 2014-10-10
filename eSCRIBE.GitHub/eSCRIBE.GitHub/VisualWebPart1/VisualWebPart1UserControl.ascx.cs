@@ -33,6 +33,9 @@ namespace eSCRIBE.GitHub.VisualWebPart1
         private void SpellCheck()
         {
             // Nothing
+            tbResult1.Text = "";
+            tbResult2.Text = "";
+            tbAge.Text = "";
         }
     }
 }
