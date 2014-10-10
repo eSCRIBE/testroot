@@ -29,5 +29,10 @@ namespace eSCRIBE.GitHub.VisualWebPart1
             tbName.Text = "None";
             tbCompany.Text = "None";
         }
+
+        private void SpellCheck()
+        {
+            // Nothing
+        }
     }
 }
