@@ -1,0 +1,4 @@
+c:\users\blu\documents\visual studio 2010\Projects\eSCRIBE.GitHub\eSCRIBE.GitHub\bin\Debug\eSCRIBE.GitHub.dll
+c:\users\blu\documents\visual studio 2010\Projects\eSCRIBE.GitHub\eSCRIBE.GitHub\bin\Debug\eSCRIBE.GitHub.pdb
+c:\users\blu\documents\visual studio 2010\Projects\eSCRIBE.GitHub\eSCRIBE.GitHub\obj\Debug\eSCRIBE.GitHub.dll
+c:\users\blu\documents\visual studio 2010\Projects\eSCRIBE.GitHub\eSCRIBE.GitHub\obj\Debug\eSCRIBE.GitHub.pdb

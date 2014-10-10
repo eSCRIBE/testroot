@@ -1,0 +1,1 @@
+bin\Debug\eSCRIBE.GitHub.wsp

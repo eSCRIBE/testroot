@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="1ba0332f-2eef-4e4c-86db-b02a84ed4e38" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="eSCRIBE.GitHub.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="eSCRIBE.GitHub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d0a355cfdd808c2a" Namespace="eSCRIBE.GitHub.VisualWebPart1" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\eSCRIBE.GitHub\VisualWebPart1\VisualWebPart1UserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="eSCRIBE.GitHub_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

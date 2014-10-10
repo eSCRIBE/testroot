@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="1ba0332f-2eef-4e4c-86db-b02a84ed4e38" solutionId="1ba0332f-2eef-4e4c-86db-b02a84ed4e38" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="eSCRIBE.GitHub">
+    <features>
+        <featureReference itemId="556d7807-79cc-4733-8c97-97c213bf1c56" />
+    </features>
+</package>
