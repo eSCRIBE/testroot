@@ -17,7 +17,7 @@ namespace eSCRIBE.GitHub.VisualWebPart1
             tbResult1.Text = "Saved name and company";
 			tbResult2.Text = "";
 			tbAge.Text = "0";
-			tbGender.Text = "None";
+			tbGender.Text = "Male";
         }
 
         protected void btnSaveTable2_Click(object sender, EventArgs e)
