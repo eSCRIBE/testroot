@@ -22,6 +22,8 @@ namespace eSCRIBE.GitHub.VisualWebPart1
         {
             tbResult2.Text = "Saved age and gender";
             tbResult1.Text = "";
+            tbName.Text = "None";
+            tbCompany.Text = "None";
         }
     }
 }
