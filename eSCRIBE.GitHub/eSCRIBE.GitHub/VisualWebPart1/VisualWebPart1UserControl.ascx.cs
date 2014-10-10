@@ -10,6 +10,8 @@ namespace eSCRIBE.GitHub.VisualWebPart1
         protected void Page_Load(object sender, EventArgs e)
         {
             // Nothing
+			tbResult1.Text = "";
+			tbResult2.Text = "";
         }
 
         protected void btnSaveTable1_Click(object sender, EventArgs e)
