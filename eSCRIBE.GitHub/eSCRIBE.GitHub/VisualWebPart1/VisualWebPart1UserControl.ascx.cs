@@ -36,7 +36,7 @@ namespace eSCRIBE.GitHub.VisualWebPart1
             tbResult1.Text = "";
             tbResult2.Text = "";
             tbAge.Text = "";
-            tbCompany.Text = "1";
+            tbCompany.Text = "";
         }
     }
 }
